@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sniper-game:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sniper_game_jar</output-path>
+    <root id="archive" name="sniper-game.jar">
+      <element id="module-output" name="sniper-game" />
+    </root>
+  </artifact>
+</component>
